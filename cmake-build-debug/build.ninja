@@ -55,7 +55,7 @@ build CMakeFiles/DataStructures.dir/main.cpp.obj: CXX_COMPILER__DataStructures_D
   OBJECT_DIR = CMakeFiles\DataStructures.dir
   OBJECT_FILE_DIR = CMakeFiles\DataStructures.dir
 
-build CMakeFiles/DataStructures.dir/ArrStack.cpp.obj: CXX_COMPILER__DataStructures_Debug C$:/Users/andro/CLionProjects/DataStructures/cmake-build-debug/ArrStack.cpp || cmake_object_order_depends_target_DataStructures
+build CMakeFiles/DataStructures.dir/ArrStack.cpp.obj: CXX_COMPILER__DataStructures_Debug C$:/Users/andro/CLionProjects/DataStructures/ArrStack.cpp || cmake_object_order_depends_target_DataStructures
   DEP_FILE = CMakeFiles\DataStructures.dir\ArrStack.cpp.obj.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\DataStructures.dir

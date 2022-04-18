@@ -7,7 +7,16 @@
 
 
 class ArrStack {
-
+int *Arr;
+int elements,capacity;
+public:
+    ArrStack(void);
+    ArrStack(int size);
+    void push(int x);
+    int pop();
+    bool isEmpty();
+    void expand();
+    ~ArrStack(void );
 };
 
 
