@@ -3,4 +3,4 @@ project(DataStructures)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructures main.cpp cmake-build-debug/ArrStack.cpp cmake-build-debug/ArrStack.h)
+add_executable(DataStructures main.cpp ArrStack.cpp ArrStack.h)
