@@ -1,19 +1,5 @@
 # ninja log v5
-1	184	6719898196523363	build.ninja	503beaa1034b74a5
+1	184	6746814423341999	build.ninja	503beaa1034b74a5
 3	82	6719886573455894	CMakeFiles/DataStructures.dir/ArrStack.cpp.obj	c5c6c3dafc98ada5
-3	383	6719891904856390	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-383	514	6719891906113284	DataStructures.exe	c142dc0034ea079e
-4	492	6719994451350769	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-493	692	6719994453295852	DataStructures.exe	c142dc0034ea079e
-3	376	6719995921317479	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-376	509	6719995922594064	DataStructures.exe	c142dc0034ea079e
-4	391	6719996619013092	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-397	539	6719996620423047	DataStructures.exe	c142dc0034ea079e
-3	402	6719997122159357	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-403	541	6719997123475825	DataStructures.exe	c142dc0034ea079e
-3	380	6719997325093872	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-381	513	6719997326356740	DataStructures.exe	c142dc0034ea079e
-4	377	6719997946979890	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-378	509	6719997948236551	DataStructures.exe	c142dc0034ea079e
-3	372	6719998076966150	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
-373	507	6719998078262966	DataStructures.exe	c142dc0034ea079e
+3	416	6720003832374182	CMakeFiles/DataStructures.dir/main.cpp.obj	bc74a388b58d24cf
+416	558	6720003833728574	DataStructures.exe	c142dc0034ea079e
