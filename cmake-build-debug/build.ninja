@@ -61,6 +61,18 @@ build CMakeFiles/DataStructures.dir/ArrStack.cpp.obj: CXX_COMPILER__DataStructur
   OBJECT_DIR = CMakeFiles\DataStructures.dir
   OBJECT_FILE_DIR = CMakeFiles\DataStructures.dir
 
+build CMakeFiles/DataStructures.dir/Linkedlist.cpp.obj: CXX_COMPILER__DataStructures_Debug C$:/Users/andro/CLionProjects/DataStructures/Linkedlist.cpp || cmake_object_order_depends_target_DataStructures
+  DEP_FILE = CMakeFiles\DataStructures.dir\Linkedlist.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\DataStructures.dir
+  OBJECT_FILE_DIR = CMakeFiles\DataStructures.dir
+
+build CMakeFiles/DataStructures.dir/Node.cpp.obj: CXX_COMPILER__DataStructures_Debug C$:/Users/andro/CLionProjects/DataStructures/Node.cpp || cmake_object_order_depends_target_DataStructures
+  DEP_FILE = CMakeFiles\DataStructures.dir\Node.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\DataStructures.dir
+  OBJECT_FILE_DIR = CMakeFiles\DataStructures.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DataStructures
@@ -69,7 +81,7 @@ build CMakeFiles/DataStructures.dir/ArrStack.cpp.obj: CXX_COMPILER__DataStructur
 #############################################
 # Link the executable DataStructures.exe
 
-build DataStructures.exe: CXX_EXECUTABLE_LINKER__DataStructures_Debug CMakeFiles/DataStructures.dir/main.cpp.obj CMakeFiles/DataStructures.dir/ArrStack.cpp.obj
+build DataStructures.exe: CXX_EXECUTABLE_LINKER__DataStructures_Debug CMakeFiles/DataStructures.dir/main.cpp.obj CMakeFiles/DataStructures.dir/ArrStack.cpp.obj CMakeFiles/DataStructures.dir/Linkedlist.cpp.obj CMakeFiles/DataStructures.dir/Node.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DataStructures.dir

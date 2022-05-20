@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ArrStack.h"
+#include "Linkedlist.cpp"
 using namespace std;
 // Function To Change Decimal into binary using ArrStack
 void DecimalToBinary(int x){
@@ -28,12 +29,22 @@ int main() {
 //    else
 //        cout<<"No";
     //ArrStack End
-
+//---------------------------------------------------------------------------------------------------------------
     //'Decimal To Binary' function Test
-    cout<<"Enter Decimal Number : ";
-    int x; cin>>x;
-    cout<<x<<" in Binary equals : ";DecimalToBinary(x);
+//    cout<<"Enter Decimal Number : ";
+//    int x; cin>>x;
+//    cout<<x<<" in Binary equals : ";DecimalToBinary(x);
     //'Decimal To Binary' End
+// =========================================================================================================================
+  //Test LinkedList
+  Linkedlist<int> ll;
+    for (int i = 0; i < 11; ++i) {
+        ll.Append(i);
+    };
+   ll.MoveNode(3,1);
+   ll.Display();
+   // End LinkedList
+//========================================================================================================================
 }
 
 

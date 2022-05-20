@@ -3,4 +3,4 @@ project(DataStructures)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructures main.cpp ArrStack.cpp ArrStack.h)
+add_executable(DataStructures main.cpp ArrStack.cpp ArrStack.h Linkedlist.cpp Linkedlist.h Node.cpp Node.h)
